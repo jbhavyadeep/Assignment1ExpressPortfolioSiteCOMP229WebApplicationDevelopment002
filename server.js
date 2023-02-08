@@ -3,6 +3,10 @@
 /**
  * Module dependencies.
  */
+/*<!--
+  Code Taken from
+  Professor Blessing Ajiboye, COMP229 Web Application and Development
+-->*/ 
 
 var app = require('./app');
 var debug = require('debug')('week3:server');
