@@ -46,3 +46,20 @@
       display: table;
       clear: both;
     }
+.back {
+      background-image: url("/Assets/images/chat.jpg");
+      height: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+     }
+
+     .back1 {
+      background-image: url("/Assets/images/home.png");
+      height: 600px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+     }
